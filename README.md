@@ -8,5 +8,5 @@ npm isntall<br />
 npm run start<br /> 
 npm run build <br /> 
 ## 截图
-![Image text](https://github.com/touch-sky/EnglishApp-React/blob/master/public/images/showlogin.png)<br /> 
-![Image text](https://github.com/touch-sky/EnglishApp-React/blob/master/public/images/showranking.png)
+![Image text](https://github.com/touch-sky/EnglishApp-Vue/blob/master/static/images/showlogin.png)<br /> 
+![Image text](https://github.com/touch-sky/EnglishApp-Vue/blob/master/static/images/showranking.png)
