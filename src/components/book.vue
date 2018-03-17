@@ -9,7 +9,7 @@ export default {
   name: 'app',
   data () {
     return {
-      msg: '词书'
+      msg: '我的词书'
     }
   }
 }
